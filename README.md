@@ -90,7 +90,7 @@ Le système **LinkedIn2CV** doit permettre à l’utilisateur de :
 
 ---
 
-## 📅 Planification (jalons)
+## Planification (jalons)
 
 ### 🔹 24 Octobre 2025
 - Prototype fonctionnel 
